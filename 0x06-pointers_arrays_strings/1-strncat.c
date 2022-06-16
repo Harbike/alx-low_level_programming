@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * _strncat - concatenatee two strings
  * using at most n bytes from src
@@ -18,9 +17,9 @@ while (dest[i] != '\0')
 i++;
 }
 j = 0;
-while (j < n $$ src[j] != '\0')
+while (j < n && src[j] != '\0')
 {
-dest[i] = src[j];
+dest[i] =  src[j];
 i++;
 j++;
 }
