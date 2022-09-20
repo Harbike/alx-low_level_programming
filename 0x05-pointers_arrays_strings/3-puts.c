@@ -1,7 +1,6 @@
 #include "main.h"
 /**
-*_puts- pri
-nts a string to stdout
+*_puts- prints a string to stdout
 *@str: value to be evaluated
 *Return:(0)
 */
