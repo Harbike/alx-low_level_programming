@@ -4,3 +4,4 @@
  3: A program that prints alphabet in lowercase and uppercase followed by a newline
  4: A program that prints alphabets in lowercase except q and e
  5: A program that prints all digit numbers of base 10 from 0
+ 6: A program that prints all single digit of base 10 using putchar
