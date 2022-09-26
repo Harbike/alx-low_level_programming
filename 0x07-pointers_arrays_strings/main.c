@@ -19,7 +19,7 @@ printf(" ");
 }
 if (!(i % 10) && i)
 {
-printf(("\n");
+printf("\n");
 }
 printf("0x%02x", buffer[i]);
 i++;
@@ -28,7 +28,7 @@ printf("\n");
 }
 /**
 * main - check the code
-* Return: always 0.
+* Return: Always 0.
 */
 int main(void)
 {
